@@ -53,6 +53,3 @@ This plot compares variant allele frequencies between samples collected at diffe
 
 For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/syingduo/genoviz/issues) or contact **syingduo** directly.
 
-## 📄 License
-
-This project is licensed under the MIT License.
